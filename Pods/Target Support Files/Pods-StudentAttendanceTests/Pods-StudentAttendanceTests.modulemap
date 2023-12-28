@@ -1,0 +1,6 @@
+framework module Pods_StudentAttendanceTests {
+  umbrella header "Pods-StudentAttendanceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
